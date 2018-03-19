@@ -50,6 +50,8 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **Linting** - Running a program that checks your code for syntax errors (i.e using double vs single quotes)
 
+**Machine Learning** - The science of getting computers to act without being explicitly programmed.
+
 **Markdown Text** - This document is written in markdown syntax and like HTML, is a basic language used for formatting text documents that can be read and interpreted on the web.
 
 **Method** - A method is a procedure associated with an object. For example, you could have an object, **Window** which has an **open()** and a **close()** method.
